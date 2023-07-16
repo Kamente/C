@@ -20,3 +20,6 @@ int main()
 
     return 0;
 }
+
+//data types: int, float, double, char, boolean
+// 
